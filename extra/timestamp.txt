@@ -1,0 +1,2 @@
+.db	"~{ 04/13/2015 10:10PM " 
+.db	"LED Whiplash costume control module A5 copyright 2010 - 2015 Mike Arnos }~"
